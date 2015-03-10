@@ -27,12 +27,16 @@
 [MongoDB Manual](http://docs.mongodb.org/manual/)  
 [Redis命令参考](http://redisdoc.com/)  
 [Tornado文档](http://www.tornadoweb.cn/documentation)  
+[gevent文档](http://www.gevent.org/contents.html)  
 [Celery文档](http://docs.celeryproject.org/en/latest/index.html)  
-[gevent文档](http://www.gevent.org/contents.html)
 [Thrift文档](http://thrift-tutorial.readthedocs.org/en/latest)  
 [Fabric文档](http://redisdoc.com/)  
 [Saltstack文档](http://docs.saltstack.cn/zh_CN/latest/)  
 [Python魔术方法指南](http://pycoders-weekly-chinese.readthedocs.org/en/latest/issue6/a-guide-to-pythons-magic-methods.html)  
+[Bootstrap](http://www.bootcss.com/)  
+[Full Stack Python](http://www.fullstackpython.com/)  
+[Tutorials Library](http://www.tutorialspoint.com/tutorialslibrary.htm)  
+
 
 
 ## 参考书籍：  
