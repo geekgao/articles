@@ -14,4 +14,10 @@ Sublime Text 2配置文件：
 *  Emmet
 *  PrettyJSON
 *  ColorHighlighter
-*  BracketHighlighter
+*  BracketHighlighter    
+
+
+常用字体：
+*  Hermit    
+
+
