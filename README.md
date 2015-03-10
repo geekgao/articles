@@ -2,7 +2,7 @@
 
 
 ## Sublime Text 2配置文件：
-* Preferences.sublime-settings    
+* [Preferences.sublime-settings](https://github.com/geekgao/Person/raw/master/Preferences.sublime-settings)    
 
 
 ## 安装的插件列表：
