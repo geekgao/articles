@@ -20,14 +20,27 @@
 ## 常用字体：
 *  Hermit    
 
+
 ## 常用参考链接： 
 
 [Python Module of the Week](http://pymotw.com/2/)  
 [MongoDB Manual](http://docs.mongodb.org/manual/)  
 [Redis命令参考](http://redisdoc.com/)  
+[Tornado文档](http://www.tornadoweb.cn/documentation)  
+[Celery文档](http://docs.celeryproject.org/en/latest/index.html)  
+[gevent文档](http://www.gevent.org/contents.html)
+[Thrift文档](http://thrift-tutorial.readthedocs.org/en/latest)  
 [Fabric文档](http://redisdoc.com/)  
 [Saltstack文档](http://docs.saltstack.cn/zh_CN/latest/)  
+[Python魔术方法指南](http://pycoders-weekly-chinese.readthedocs.org/en/latest/issue6/a-guide-to-pythons-magic-methods.html)  
 
+
+## 参考书籍：  
+
+*  《Python Cookbook》  
+*  《The Linux Programming Interface》  
+*  《UNIX网络编程卷I：套接字联网API》  
+*  《高性能Linux服务器构建实战》  
 
 
 
