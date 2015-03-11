@@ -42,7 +42,8 @@
 ## 参考书籍：  
 
 *  《Python Cookbook》  
-*  《The Linux Programming Interface》  
+*  《The Linux Programming Interface》 
+*  《bash Pocket Reference》  
 *  《UNIX网络编程卷I：套接字联网API》  
 *  《高性能Linux服务器构建实战》  
 
