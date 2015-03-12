@@ -33,6 +33,7 @@
 [Fabric文档](http://redisdoc.com/)  
 [Saltstack文档](http://docs.saltstack.cn/zh_CN/latest/)  
 [Python魔术方法指南](http://pycoders-weekly-chinese.readthedocs.org/en/latest/issue6/a-guide-to-pythons-magic-methods.html)  
+[Generator Tricks For Systems Programmers](http://www.dabeaz.com/generators/Generators.pdf)  
 [Bootstrap](http://www.bootcss.com/)  
 [Full Stack Python](http://www.fullstackpython.com/)  
 [Tutorials Library](http://www.tutorialspoint.com/tutorialslibrary.htm)  
