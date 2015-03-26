@@ -30,7 +30,7 @@
 [gevent文档](http://www.gevent.org/contents.html)  
 [Celery文档](http://docs.celeryproject.org/en/latest/index.html)  
 [Thrift文档](http://thrift-tutorial.readthedocs.org/en/latest)  
-[Fabric文档](http://redisdoc.com/)  
+[Fabric文档](http://docs.fabfile.org/)  
 [Saltstack文档](http://docs.saltstack.cn/zh_CN/latest/)  
 [Python魔术方法指南](http://pycoders-weekly-chinese.readthedocs.org/en/latest/issue6/a-guide-to-pythons-magic-methods.html)  
 [Generator Tricks For Systems Programmers](http://www.dabeaz.com/generators/Generators.pdf)  
