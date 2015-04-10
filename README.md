@@ -39,8 +39,8 @@
 [Tutorials Library](http://www.tutorialspoint.com/tutorialslibrary.htm)  
 [Google Python 风格指南](http://zh-google-styleguide.readthedocs.org/en/latest/google-python-styleguide/python_language_rules/)  
 [Flask文档](http://docs.jinkan.org/docs/flask/)   
-[SQLAlchemy文档](http://docs.sqlalchemy.org/en/)
-[Requests文档](http://requests-docs-cn.readthedocs.org/zh_CN/latest/user/quickstart.html)
+[SQLAlchemy文档](http://docs.sqlalchemy.org/en/)  
+[Requests文档](http://requests-docs-cn.readthedocs.org/zh_CN/latest/user/quickstart.html)  
 
 ## 参考书籍：  
 
