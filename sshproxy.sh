@@ -1,2 +1,2 @@
 #!/bin/sh
-ssh -f -NC -D1080 fuck@fan.gaochao.me
+while true; do ssh -NC -D 1081 -p 20013 gao@111.111.111.111 || true; done
