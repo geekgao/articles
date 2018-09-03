@@ -1,5 +1,7 @@
 # 个人常用的开发配置
 
+## BLOG文章
+* [文章](https://github.com/geekgao/articles/issues)    
 
 ## Sublime Text 2配置文件：
 * [Preferences.sublime-settings](https://github.com/geekgao/Person/raw/master/Preferences.sublime-settings)    
