@@ -1,2 +1,4 @@
 #!/bin/sh
-while true; do ssh -NC -D 1081 -p 20013 gao@111.111.111.111 || true; done
+export http_proxy=socks5://127.0.0.1:1081
+export https_proxy=socks5://127.0.0.1:1081
+ssh -NC -D 1081 -p 22 gao@111.111.111.111
